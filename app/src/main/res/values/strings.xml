@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Road Signs 2</string>
+    <string name="picture_iv">quizImage</string>
+    <string name="question_tv">TextView</string>
+    <string name="a_rb">RadioButton</string>
+    <string name="b_rb">RadioButton</string>
+    <string name="c_rb">RadioButton</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="score_number">Score: 0</string>
+</resources>
